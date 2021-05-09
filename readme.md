@@ -12,4 +12,6 @@ $ git clone https://github.com/Yankue/rokue.js
 ```
 
 ## Documentation
-Documentation will be coming soon, this is a very new package!
+Documentation is on [the GitHub Wiki](https://github.com/Yankue/rokue.js/wiki)!
+## Support
+For support, help, or bug reports, [please open an issue](https://github.com/Yankue/rokue.js/issues).
